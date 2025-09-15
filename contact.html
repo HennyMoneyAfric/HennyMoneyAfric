@@ -3,36 +3,28 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Contact Us - HennyMoneyAfric</title>
-  <style>
-    body { font-family: Arial, sans-serif; margin:0; padding:0; background:#f7f7f7; color:#333; }
-    header { background: #006400; color: #FFD700; padding:30px 20px; text-align:center; }
-    h1 { margin:0; font-size:2rem; }
-    form { max-width:500px; margin:40px auto; background:#fff; padding:20px; border-radius:5px; box-shadow:0 2px 5px rgba(0,0,0,0.1); }
-    label { display:block; margin:15px 0 5px; }
-    input, textarea { width:100%; padding:10px; border:1px solid #ccc; border-radius:3px; }
-    button { background:#006400; color:#FFD700; padding:10px 20px; border:none; border-radius:5px; font-weight:bold; cursor:pointer; margin-top:15px; }
-  </style>
+  <title>Contact HennyMoneyAfric</title>
 </head>
 <body>
-
-<header>
   <h1>Contact Us</h1>
-</header>
+  <p>Have questions or want to work with us? Send a message below!</p>
 
-<form name="contact" method="POST" data-netlify="true">
-  <input type="hidden" name="form-name" value="contact">
-  <label>Your Name</label>
-  <input type="text" name="name" required>
-  
-  <label>Your Email</label>
-  <input type="email" name="email" required>
-  
-  <label>Message</label>
-  <textarea name="message" rows="6" required></textarea>
-  
-  <button type="submit">Send Message</button>
-</form>
+  <!-- Netlify Contact Form -->
+  <form name="contact" method="POST" data-netlify="true">
+    <input type="hidden" name="form-name" value="contact">
 
+    <label for="name">Your Name:</label>
+    <input type="text" id="name" name="name" placeholder="Your Name" required>
+
+    <label for="email">Your Email:</label>
+    <input type="email" id="email" name="email" placeholder="Your Email" required>
+
+    <label for="message">Message:</label>
+    <textarea id="message" name="message" placeholder="Your Message" required></textarea>
+
+    <button type="submit">Send Message</button>
+  </form>
+
+  <p>Contact Email: info@gmail.com (temporary until you get your own domain email)</p>
 </body>
 </html>
