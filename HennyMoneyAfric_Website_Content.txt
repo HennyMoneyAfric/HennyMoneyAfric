@@ -1,0 +1,121 @@
+HennyMoneyAfric Website Content
+
+---
+Home Page
+
+Hero Section:
+Welcome to HennyMoneyAfric
+Marketing Solutions & Online Sales Made Simple
+
+[Explore Our Services]
+
+Feature Highlights:
+1. Expert Marketing
+Boost your online presence with tailored SEO & digital strategies.
+
+2. E-commerce Setup
+Launch your online store quickly with optimized sales features.
+
+3. Consulting Services
+Get one-on-one guidance to grow your business digitally.
+
+---
+About Page
+
+About HennyMoneyAfric
+
+HennyMoneyAfric is dedicated to helping businesses grow online through smart marketing strategies and innovative solutions. From SEO to e-commerce setup, we make digital growth simple.
+
+---
+Services Page
+
+Our Services
+
+- SEO & ASO Consulting
+Boost your visibility on Google Play, App Store, and search engines.
+
+- Digital Marketing Strategies
+Custom campaigns to grow your brand and attract the right audience.
+
+- Social Media Management
+Engage your community and grow your reach across platforms.
+
+- E-commerce Store Setup & Optimization
+Launch and optimize your online store for maximum sales.
+
+[Book a Consultation]
+
+---
+Store / Products Page
+
+Our Products
+
+Product 1: Digital Marketing Starter Kit
+Description: A beginner-friendly package to kickstart your online growth.
+Price: $49
+[Buy Now]
+
+Product 2: SEO & ASO Booster Pack
+Description: Improve visibility for your website and mobile apps.
+Price: $99
+[Buy Now]
+
+Product 3: Social Media Growth Bundle
+Description: Content planning + strategies to grow your audience fast.
+Price: $79
+[Buy Now]
+
+---
+Blog Page
+
+Latest Articles
+
+1. Marketing Tips: How to Grow Online
+Practical strategies for small businesses to build an online presence. [Read More]
+
+2. E-commerce Strategies for Beginners
+Simple steps to set up and optimize your first online store. [Read More]
+
+3. SEO Basics for Small Businesses
+Understand search engine optimization and rank higher. [Read More]
+
+---
+Contact Page
+
+Get in Touch
+
+We’d love to hear from you. Fill out the form below and we’ll get back to you quickly.
+
+Name: __________
+Email: __________
+Message: __________
+
+[Send Message]
+
+---
+Navigation & Footer
+
+Navigation Bar:
+Home | About | Services | Store | Blog | Contact
+
+Footer:
+HennyMoneyAfric © 2025
+Email: support@hennymoneyafric.com
+Follow us: Instagram | TikTok | LinkedIn
+
+---
+Design & Branding Notes
+
+Colors:
+- Primary Green: #2E7D32
+- Accent Gold: #FFD700
+
+Fonts:
+- Headings → Modern sans-serif (bold & clean)
+- Body → Neutral sans-serif (easy to read)
+
+Buttons:
+- Rounded corners, hover effect (gold highlight)
+
+Images:
+- Use stock photos with green/gold accents for consistency
